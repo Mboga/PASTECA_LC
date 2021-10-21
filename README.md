@@ -1,1 +1,1 @@
-# Pieces of code of land cover mapping from PASTECA project
+# Pieces of code for land cover mapping from PASTECA project
